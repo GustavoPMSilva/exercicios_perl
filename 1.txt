@@ -1,0 +1,5 @@
+.:
+total 8
+drwxrwxr-x  2 gustavo gustavo 4096 Ago 26 11:37 .
+drwxr-xr-x 18 gustavo gustavo 4096 Ago 26 11:33 ..
+-rw-rw-r--  1 gustavo gustavo    0 Ago 26 11:37 arquivo.txt.
